@@ -12,7 +12,7 @@ This repository hosts a Jupyter Notebook dedicated to the classification of SMS 
 
 ## Prerequisites
 To execute the notebook, ensure that you have the following installed:
-- Python 3.x
+- Python 3. x
 - Jupyter Notebook or JupyterLab
 
 ## Dependencies
@@ -27,13 +27,13 @@ pip install -r requirements.txt
    ```bash
    git clone https://github.com/yourusername/sms-text-classification.git
    ```
-2. Change directory to the cloned repository:
+2. Change the directory to the cloned repository:
    ```bash
    cd sms-text-classification
    ```
 3. Launch Jupyter:
    ```bash
-   jupyter notebook
+   Jupiter notebook
    ```
 4. Navigate to and open `SMS_Text_Classification.ipynb` in the Jupyter interface.
 
@@ -41,5 +41,5 @@ pip install -r requirements.txt
 We welcome contributions from the community. To contribute, fork the repository, create a new branch for your contributions, and submit a pull request.
 
 ## Contact
-Your Name - souravhada123@gmail.com  
-Project Link: [https://github.com/yourusername/sms-text-classification](https://github.com/souravhada/Neural-Network-SMS-Text-Classifier)
+Your Name - suriyanarayana.391@gmail.com
+Project Link: https://github.com/SuriyaNarayana6765/Neural-Network-SMS-Text-Classifier
