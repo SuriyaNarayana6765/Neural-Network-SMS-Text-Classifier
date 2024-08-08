@@ -41,5 +41,6 @@ pip install -r requirements.txt
 We welcome contributions from the community. To contribute, fork the repository, create a new branch for your contributions, and submit a pull request.
 
 ## Contact
-Your Name - suriyanarayana.391@gmail.com
+Name: Surya Narayana.G
+Email id:suriyanarayana.391@gmail.com
 Project Link: https://github.com/SuriyaNarayana6765/Neural-Network-SMS-Text-Classifier
